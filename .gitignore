@@ -1,0 +1,14 @@
+/vendor/
+
+/.env
+
+/var/
+/coverage/
+/.phpunit.cache/
+
+*.log
+*.tmp
+
+.idea/
+.DS_Store
+Thumbs.db
