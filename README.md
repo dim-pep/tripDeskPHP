@@ -109,8 +109,8 @@ tripdesk/
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/dim-pep/tripdesk.git
-cd tripdesk
+git clone https://github.com/dim-pep/tripDeskPHP.git
+cd tripDeskPHP
 ```
 
 ### 2. Установка зависимостей
